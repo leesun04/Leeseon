@@ -1,21 +1,56 @@
-<h1 align="center">🎮 PakaDopa - Game Client Developer 🎮</h1>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6F91,FFC1CC&height=200&section=header&text=Welcome%20to%20PakaDopa's%20Profile&fontSize=30&fontColor=ffffff" />
-</p>
+<h1 align="center">👋 Hi, I'm leesun04!</h1>
+<h3 align="center">Data Science Graduate Student | Python & Computer Vision Enthusiast</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD,00BFFF&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=ffffff"/>
+</p>
+
+---
+
+🎓 **About Me**
+
+- 🔍 I’m currently pursuing a master's degree in **Data Science** at **Konkuk University (건국대학교 일반대학원)**  
+- 🧠 Passionate about **Computer Vision**, **AI model deployment**, and real-time data systems  
+- 💡 Exploring cutting-edge tools like `FastAPI`, `Unity`, `C#`, and deep learning frameworks  
+- 📊 Strong foundation in **Python** and **scientific computing**  
+
+---
+
+🛠️ **Tech Stack**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
+
+---
+
+📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PakaDopa&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PakaDopa&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leesun04&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesun04&layout=compact&theme=tokyonight" />
 </p>
 
-## 👓 Blog [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=pakadopa)](https://velog.io/@pakadopa/posts)
+---
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pakadopa)](https://github.com/eungyeole/velog-readme-stats)
+🏆 **Achievements**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=leesun04&theme=darkhub&margin-w=15&no-frame=true" />
+</p>
+
+---
+
+📫 **Contact**
+
+- 📧 Email: `your-email@example.com` (원하시면 입력해주세요)
+- 🖋️ Blog / Portfolio: `https://your-blog-url.com` (있다면 추가해 주세요)
+
+---
+
+✨ *"Code is the paint, data is the canvas."*
 
