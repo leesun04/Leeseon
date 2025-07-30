@@ -47,8 +47,8 @@
 
 📫 **Contact**
 
-- 📧 Email: `your-email@example.com` (원하시면 입력해주세요)
-- 🖋️ Blog / Portfolio: `https://your-blog-url.com` (있다면 추가해 주세요)
+- 📧 Email: `dltjswo0323@gmail.com` 
+- 🖋️ Blog / Portfolio: `[https://your-blog-url.com](https://dltjswo0323.tistory.com/)` 
 
 ---
 
