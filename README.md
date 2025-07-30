@@ -48,7 +48,7 @@
 📫 **Contact**
 
 - 📧 Email: `dltjswo0323@gmail.com` 
-- 🖋️ Blog / Portfolio: `[https://your-blog-url.com](https://dltjswo0323.tistory.com/)` 
+- 🖋️ Blog / Portfolio: `https://dltjswo0323.tistory.com` 
 
 ---
 
