@@ -1,10 +1,5 @@
 <h1 align="center">👋 Hi, I'm leesun04!</h1>
 <h3 align="center">Data Science Graduate Student | Python & Computer Vision Enthusiast</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD,00BFFF&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=ffffff"/>
-</p>
-
 ---
 
 🛠️ **Tech Stack**
