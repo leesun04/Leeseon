@@ -7,15 +7,6 @@
 
 ---
 
-🎓 **About Me**
-
-- 🔍 I’m currently pursuing a master's degree in **Data Science** at **Konkuk University (건국대학교 일반대학원)**  
-- 🧠 Passionate about **Computer Vision**, **AI model deployment**, and real-time data systems  
-- 💡 Exploring cutting-edge tools like `FastAPI`, `Unity`, `C#`, and deep learning frameworks  
-- 📊 Strong foundation in **Python** and **scientific computing**  
-
----
-
 🛠️ **Tech Stack**
 
 <p align="center">
@@ -31,8 +22,8 @@
 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leesun04&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesun04&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=leesun04&show_icons=true&theme=light&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesun04&layout=compact&theme=light" />
 </p>
 
 ---
