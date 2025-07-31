@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm leesun04!</h1>
+<h1 align="center">👋 Hi, I'm SeonJae Lee!</h1>
 <h3 align="center">Data Science Graduate Student | Python & Computer Vision Researcher</h3>
 
 
