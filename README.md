@@ -40,8 +40,3 @@
 
 - 📧 Email: `dltjswo0323@gmail.com` 
 - 🖋️ Blog / Portfolio: `https://dltjswo0323.tistory.com` 
-
----
-
-✨ *"Code is the paint, data is the canvas."*
-
