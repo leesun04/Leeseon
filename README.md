@@ -50,5 +50,6 @@
 </p>
 <p align="center">
 - 📧 Email: `dltjswo0323@gmail.com` 
+    <br/>
 - 🖋️ Blog / Portfolio: `https://dltjswo0323.tistory.com` 
 </p>
