@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm SeonJae Lee!</h1>
-<h3 align="center">Data Science Graduate Student | Python & Computer Vision Researcher</h3>
+<h3 align="center">Python & Computer Vision Researcher</h3>
 
 
 
